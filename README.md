@@ -12,7 +12,7 @@ could generate any issues.
 
 
 # Technical Summary
-Back end language: Python
+Back end language: Python, 
 Dataset:  Excel
 
 # Features
@@ -28,9 +28,9 @@ Convert pdf files into excel sheets (xlsx, or csv) using tabula technology.
 Compare final amounts from the two excel files.
 
 # Requirements
-Python
-MS Excel
-Pandas-Jupyter Notebooks
-Tabula Technology
-Numpy
-Openpyxl
+Python, 
+MS Excel, 
+Pandas-Jupyter Notebooks, 
+Tabula Technology, 
+Numpy, 
+Openpyxl, 
