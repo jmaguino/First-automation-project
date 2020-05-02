@@ -13,7 +13,7 @@ could generate any issues.
 
 # Technical Summary
 Back end language: Python, 
-Dataset:  Excel
+Dataset:  Excel.
 
 # Features
 The script will check for differences between daily total transactions and end of day final numbers report. 
@@ -33,4 +33,4 @@ MS Excel,
 Pandas-Jupyter Notebooks, 
 Tabula Technology, 
 Numpy, 
-Openpyxl, 
+Openpyxl.
