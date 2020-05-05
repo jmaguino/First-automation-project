@@ -4,12 +4,11 @@
 This was accomplished by looking at the user's need of comparing total sales recorded in
 excel. We used python to automate manual process for an end of day balance transaction sheet.
 This will allow the user to know when there is a mismatch between daily transactions and,
-end of day total number of sales for the day. With the goal fo corrobrating the total amounts match.
-We focused on locating the amounts located in cells withing the excel sheet that add to the
+end of day total number of sales for the day. With the goal of corroborating the total amounts match.
+We focused on locating the amounts located in cells within the excel sheet that add to the
 grand total to be able to compare both. Using highlighting to better see the information we need.
-The final report shows the totals match allowing the user be prone to skipping crucial data that 
+The final report shows the totals match allowing the user to not miss crucial data that 
 could generate any issues.
-
 
 # Technical Summary
 Back end language: Python, 
